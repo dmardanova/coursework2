@@ -1,0 +1,20 @@
+Tree after creation:
+-->45
+-->6
+Tree after adding elements:
+
+
+-->45
+-->6
+
+Tree after deleting elements:
+
+
+-->45
+-->6
+
+
+
+-->45
+-->6
+
